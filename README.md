@@ -8,7 +8,7 @@ Simply download `fake_legal.py` and place it in your project directory.
 
 Or install it directly from GitHub:
 ```bash
-pip install git+https://github.com/username/fake-legal-python.git
+pip install git+https://github.com/LeqitLama/fake-legal-python.git
 ```
 
 ## CLI Usage
